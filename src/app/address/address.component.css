@@ -1,0 +1,14 @@
+.formline {
+    margin: 10px;
+    padding: 10px;
+}
+
+.addressform {
+    background-color: lightblue;
+    padding: 20px;
+}
+
+.addresstable {
+    background-color: lightgoldenrodyellow;
+    padding: 20px;
+}
